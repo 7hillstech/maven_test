@@ -1,4 +1,4 @@
-# Sample war application using maven tool
+# Sample war application using maven tool i
 
 1. Navigate to the directory and run the below maven command to build the war file as
 ```
